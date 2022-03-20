@@ -3,8 +3,15 @@
 ## 소개
 클레이튼 예제 중에 CountBApp을 Expo CLI 개발환경에 구현한 프로젝트입니다.
 > CountBApp Tutorial GitHub : https://github.com/klaytn/countbapp
-
 ![klaytn-countbapp-expo-intro](assets/intro.gif)
+
+## 개발환경
+- Truffle
+- Klaytn(caver-js)
+- KAS(caver-js-ext-kas)
+- React Native
+- Expo CLI
+- EAS
 
 ## 설치 및 시작
 - Open terminal
