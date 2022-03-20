@@ -3,6 +3,7 @@
 ## 소개
 클레이튼 예제 중에 CountBApp을 Expo CLI 개발환경에 구현한 프로젝트입니다.
 > CountBApp Tutorial GitHub : https://github.com/klaytn/countbapp
+
 ![klaytn-countbapp-expo-intro](assets/intro.gif)
 
 ## 개발환경
